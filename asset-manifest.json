@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hms/static/css/main.5218ccfa.css",
+    "main.js": "/hms/static/js/main.bccfa991.js",
+    "static/js/563.95e335cb.chunk.js": "/hms/static/js/563.95e335cb.chunk.js",
+    "index.html": "/hms/index.html",
+    "main.5218ccfa.css.map": "/hms/static/css/main.5218ccfa.css.map",
+    "main.bccfa991.js.map": "/hms/static/js/main.bccfa991.js.map",
+    "563.95e335cb.chunk.js.map": "/hms/static/js/563.95e335cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5218ccfa.css",
+    "static/js/main.bccfa991.js"
+  ]
+}
